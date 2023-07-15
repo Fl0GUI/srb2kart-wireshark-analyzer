@@ -19,10 +19,10 @@ Drop the srb2kart.lua file into the plugin directory of wireshark before startin
 - [ ] clientquit
 - [ ] askinfo
 - [ ] serverinfo
-- [ ] playerinfo
   - as proof of concept
   - [x] application
   - [x] version
+- [ ] playerinfo
 - [ ] requestfile
 - [ ] askinfoviams
 - [ ] resynchend
